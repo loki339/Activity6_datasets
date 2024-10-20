@@ -1,4 +1,4 @@
-Fruit,Quantity Sold,Price per Unit,Revenue
+Fruit,Quantity_Sold,Price_per_Unit,Revenue
 Apples,100,0.75,75
 Oranges,80,0.6,48
 Bananas,120,0.5,60
